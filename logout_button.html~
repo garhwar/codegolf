@@ -1,5 +1,0 @@
-<html>
-<form method="POST" action="logout.php">
-<input style="background-color:green;font-family:Trebuchet MS;color:white;" type=submit name=logoutbutton value="Logout">
-</form>
-</html>
