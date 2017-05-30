@@ -1,7 +1,7 @@
 <?php
    $dbhost = 'athena.nitc.ac.in';
    $dbuser = 'b120542cs';
-   $dbpass = ':"57[]67sgr';
+   $dbpass = 'pass';
    $conn = mysql_connect($dbhost, $dbuser, $dbpass);
    if(!$conn)
    die('Could not connect: '.mysql_error());
